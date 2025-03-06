@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/soumya-123-code/Tip-calculator-app_frontend_project/)
+- Solution URL: [GitHub Repository](https://github.com/soumya-123-code/Tip-calculator-app_frontend_project)
 - Live Site URL: [Live Site](https://tip-calculator-frontend.netlify.app/)
 
 ## My process
@@ -100,17 +100,16 @@ These key points mentioned here will help me grow accountable and consistent tow
 
 ### Useful resources
 
-- [Harkirat Singh course notes](https://github.com/Soumya-Ranjan-Nayak/harkirat-singh-course_code_and_notes) - I have added notes of all lectures along with code and lecture insights of all weeks along with bonus lectures to help you all as much as I can.
-- [My development code and notes](https://github.com/Soumya-Ranjan-Nayak/cwh-web-dev-playlist_code_and_notes) - These are my notes that I made while working on my development skills in initial days and did these courses. Make sure to star the repository if you like it.✨💫
+- [Harkirat Singh course notes](https://github.com/soumya-123-code/harkirat-singh-course_code_and_notes) - I have added notes of all lectures along with code and lecture insights of all weeks along with bonus lectures to help you all as much as I can.
+- [My development code and notes](https://github.com/soumya-123-code/cwh-web-dev-playlist_code_and_notes) - These are my notes that I made while working on my development skills in initial days and did these courses. Make sure to star the repository if you like it.✨💫
 - [MDN documentation hover state for CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover) - This is an amazing article which helped me finally understand hover states. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
-**Soumya Ranjan Nayak**
-
+<b><strong>Soumya Ranjan Nayak</strong></b>
 - Website - [Soumya Ranjan Nayak](https://itsmesoumya.netlify.app/)
 - LeetCode - [@soumya_ranjan](https://leetcode.com/u/soumya_ranjan/)
-- Twitter - [@soumya_ranjan](https://www.twitter.com/soumya_ranjan)
+- Twitter - [@soumya_ranjan69](https://www.twitter.com/soumya_ranjan69)
 
 ## Acknowledgments
 
@@ -118,7 +117,7 @@ I feel like the solutions provided on the website and the continuous doubt solvi
 
 ## Got feedback for me?
 
-I love receiving feedback! I am always looking to improve my code and take up new innovative ideas to work upon. So if you have anything you'd like to mention, please email 'hi' at soumya050794[at]gmail[dot]com.
+I love receiving feedback! I am always looking to improve my code and take up new innovative ideas to work upon. So if you have anything you'd like to mention, please email 'hi' at soumya050794@gmail.com.
 
 If you liked this project make sure to spread the word and share it with all your friends.
 
